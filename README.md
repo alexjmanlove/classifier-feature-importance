@@ -36,4 +36,5 @@ The SHAP estimates suggest 𝑋3 is the most important feature, while 𝑋2 is t
 
 ## Figure 4 – Feature Importance Ranked by Mean Decrease in Node Impurity.
 The same Random Forest model trained on all predictors also suggests 𝑋3 is the most important feature, while 𝑋2 is the least.
+
 ![image](https://user-images.githubusercontent.com/79708390/170830035-4572c105-f64c-44ad-af8e-52f26666d397.png)
