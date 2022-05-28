@@ -23,8 +23,8 @@ For each classifier we have plotted ten ROC curves as a dashed line over 200 thr
 ![image](https://user-images.githubusercontent.com/79708390/170829934-002e90f0-3bb2-4071-8b54-85399a63774d.png)
 
 ## Figure 7 - Boxplot of AUC Distributions and Estimate of Contribution of Each Predictor (95% CI)
-In the left-hand plot, we see that predictors 𝑋1, 𝑋3 and 𝑋4 are associated to higher AUCs when included in a model. By contrast, the quantiles of partitioned samples corresponding to 𝑋2 show no significant difference. The right-hand plot containing the estimates for Gain in mean AUC suggests that the inclusion of 𝑋2 corresponds to a negligible change in classifier performance overall. These point estimates are shown with confidence intervals corresponding to the 95% level, with standard error as a function of the sample variances for the AUCs, s_{M_i}^2, s_{M_-i}^2,
-![image](https://user-images.githubusercontent.com/79708390/170830170-1d7685ca-712c-4a04-8491-d4ad91dee9ab.png)
+In the left-hand plot, we see that predictors 𝑋1, 𝑋3 and 𝑋4 are associated to higher AUCs when included in a model. By contrast, the quantiles of partitioned samples corresponding to 𝑋2 show no significant difference. The right-hand plot containing the estimates for Gain in mean AUC suggests that the inclusion of 𝑋2 corresponds to a negligible change in classifier performance overall. These point estimates xi_i are shown with confidence intervals corresponding to the 95% level, with standard error as a function of the sample variances for the AUCs, s_{M_i}^2, s_{M_-i}^2,
+![image](https://user-images.githubusercontent.com/79708390/170830288-478c1f8b-4b70-44c0-a468-a7ee38e05e8f.png)
 ![image](https://user-images.githubusercontent.com/79708390/170829881-dc946e4d-ad3e-44c4-a78a-f2d5fda961f3.png)
 ![image](https://user-images.githubusercontent.com/79708390/170829887-a62f6651-8681-4760-b6f9-cfa62ed25d42.png)
 
