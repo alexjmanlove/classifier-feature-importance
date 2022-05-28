@@ -1,6 +1,7 @@
 # Ethics 2: Coursework 1 - Team 7
 
 ## Overview
+
 The idea of this notebook is to explore ways to evaluate the significance of predictors/features in a binary classification problem.
 
 To do this, we take inspiration from Shapley values and consider how the ROC curve / Area Under Curve changes with the addition/removal of a given predictor X_i.
@@ -14,6 +15,7 @@ To do this, we take inspiration from Shapley values and consider how the ROC cur
 
 
 # Figures
+
 ## Figure 5 - Pairs Plot of Generated Data 
 This figure contains pairwise plots of the generated data. The data contain 1000 observations of four predictors X_1,...,X_4. From these scatterplots and KD estimates we observe 𝑋2 demonstrates minimal separability, while 𝑋3 demonstrates the greatest separability.
 ![image](https://user-images.githubusercontent.com/79708390/170829876-2c11cbea-6b3b-4b30-9a2d-6bcc6d5b00bc.png)
