@@ -28,4 +28,4 @@ To do this, we take inspiration from Shapley values and consider how the ROC cur
 ![image](https://user-images.githubusercontent.com/79708390/170829900-b6e002f3-e92f-46c3-815d-892812e398e2.png)
 
 ## Figure 4 - In-built ensemble.RandomForestClassifier() feature importance. 
-![image](https://user-images.githubusercontent.com/79708390/170829896-393983dc-50c4-4db3-a9b3-dd1d059307b4.png)
+![image](https://user-images.githubusercontent.com/79708390/170830035-4572c105-f64c-44ad-af8e-52f26666d397.png)
