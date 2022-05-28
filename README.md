@@ -4,10 +4,11 @@
 
 The idea of this notebook is to explore ways to evaluate the significance of predictors/features in a binary classification problem.
 
-To do this, we take inspiration from Shapley values and consider how a given model evaluation metric changes with the addition/removal of a predictor X_i. In this way we can seek to quantify the contribution of X_i to the model metric. In this example we will consider AUC as the metric of interest, however Precision, Recall and other metrics are equally viable.
+To do this, we take inspiration from SHAP values and consider how a given model evaluation metric changes with the addition/removal of a predictor X_i. In this way we can seek to quantify the contribution of X_i to the model metric. In this example we will consider AUC as the metric of interest, however Precision, Recall and other metrics are equally viable.
 
 ✔ Pros:
 * This method is model agnostic.
+* This method can be used to estimate any desirable metric of interest.
 * This method is fairly easy to interpret.
 
 ❌ Cons:
