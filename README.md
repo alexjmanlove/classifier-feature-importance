@@ -1,4 +1,4 @@
-# Ethics 2: Coursework 1 - Team 7
+# A SHAP-Inspired Method for Feature Importance
 
 ## Overview
 
